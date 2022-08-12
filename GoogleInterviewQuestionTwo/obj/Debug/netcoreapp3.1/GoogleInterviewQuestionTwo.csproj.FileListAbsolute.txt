@@ -1,0 +1,14 @@
+C:\Users\Integer\OneDrive - Integer Consulting\Ambiente de Trabalho\Projetos\Personal\GoogleInterviewQuestionTwo\GoogleInterviewQuestionTwo\bin\Debug\netcoreapp3.1\GoogleInterviewQuestionTwo.exe
+C:\Users\Integer\OneDrive - Integer Consulting\Ambiente de Trabalho\Projetos\Personal\GoogleInterviewQuestionTwo\GoogleInterviewQuestionTwo\bin\Debug\netcoreapp3.1\GoogleInterviewQuestionTwo.deps.json
+C:\Users\Integer\OneDrive - Integer Consulting\Ambiente de Trabalho\Projetos\Personal\GoogleInterviewQuestionTwo\GoogleInterviewQuestionTwo\bin\Debug\netcoreapp3.1\GoogleInterviewQuestionTwo.runtimeconfig.json
+C:\Users\Integer\OneDrive - Integer Consulting\Ambiente de Trabalho\Projetos\Personal\GoogleInterviewQuestionTwo\GoogleInterviewQuestionTwo\bin\Debug\netcoreapp3.1\GoogleInterviewQuestionTwo.runtimeconfig.dev.json
+C:\Users\Integer\OneDrive - Integer Consulting\Ambiente de Trabalho\Projetos\Personal\GoogleInterviewQuestionTwo\GoogleInterviewQuestionTwo\bin\Debug\netcoreapp3.1\GoogleInterviewQuestionTwo.dll
+C:\Users\Integer\OneDrive - Integer Consulting\Ambiente de Trabalho\Projetos\Personal\GoogleInterviewQuestionTwo\GoogleInterviewQuestionTwo\bin\Debug\netcoreapp3.1\GoogleInterviewQuestionTwo.pdb
+C:\Users\Integer\OneDrive - Integer Consulting\Ambiente de Trabalho\Projetos\Personal\GoogleInterviewQuestionTwo\GoogleInterviewQuestionTwo\obj\Debug\netcoreapp3.1\GoogleInterviewQuestionTwo.csproj.AssemblyReference.cache
+C:\Users\Integer\OneDrive - Integer Consulting\Ambiente de Trabalho\Projetos\Personal\GoogleInterviewQuestionTwo\GoogleInterviewQuestionTwo\obj\Debug\netcoreapp3.1\GoogleInterviewQuestionTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Integer\OneDrive - Integer Consulting\Ambiente de Trabalho\Projetos\Personal\GoogleInterviewQuestionTwo\GoogleInterviewQuestionTwo\obj\Debug\netcoreapp3.1\GoogleInterviewQuestionTwo.AssemblyInfoInputs.cache
+C:\Users\Integer\OneDrive - Integer Consulting\Ambiente de Trabalho\Projetos\Personal\GoogleInterviewQuestionTwo\GoogleInterviewQuestionTwo\obj\Debug\netcoreapp3.1\GoogleInterviewQuestionTwo.AssemblyInfo.cs
+C:\Users\Integer\OneDrive - Integer Consulting\Ambiente de Trabalho\Projetos\Personal\GoogleInterviewQuestionTwo\GoogleInterviewQuestionTwo\obj\Debug\netcoreapp3.1\GoogleInterviewQuestionTwo.csproj.CoreCompileInputs.cache
+C:\Users\Integer\OneDrive - Integer Consulting\Ambiente de Trabalho\Projetos\Personal\GoogleInterviewQuestionTwo\GoogleInterviewQuestionTwo\obj\Debug\netcoreapp3.1\GoogleInterviewQuestionTwo.dll
+C:\Users\Integer\OneDrive - Integer Consulting\Ambiente de Trabalho\Projetos\Personal\GoogleInterviewQuestionTwo\GoogleInterviewQuestionTwo\obj\Debug\netcoreapp3.1\GoogleInterviewQuestionTwo.pdb
+C:\Users\Integer\OneDrive - Integer Consulting\Ambiente de Trabalho\Projetos\Personal\GoogleInterviewQuestionTwo\GoogleInterviewQuestionTwo\obj\Debug\netcoreapp3.1\GoogleInterviewQuestionTwo.genruntimeconfig.cache
