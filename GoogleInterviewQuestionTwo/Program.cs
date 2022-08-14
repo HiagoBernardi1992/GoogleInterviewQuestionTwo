@@ -17,68 +17,44 @@ namespace GoogleInterviewQuestionTwo
 
             int CheckVolumeFill(int[] fills)
             {
+                //fist I check if the size can generate something to fill if not I just return already
                 if (fills.Length == 0 || fills.Length < 3)
                     return 0;
 
+                //varaible to storage the quantity
                 int ans = 0;
+                //variable to check the size of the graph (interation propors)
                 int size = fills.Length;
+                //variable to storage the max left size of every bar 
 
                 int[] left_max = new int[size];
+                //variable to storage the max rigth size of every bar 
                 int[] right_max = new int[size];
 
+                //In the left check I know that the first item always be himself because his don't have a left bar to compare
                 left_max[0] = fills[0];
-
+                //So I do a loop to check left to rigth
                 for (int i = 1; i < size; i++)
                 {
+                    //if the left item is bigger than the current graph I put this at same position, if not I put the bar value instead
                     left_max[i] = Math.Max(fills[i], left_max[i - 1]);
                 }
+
+                //In the rigth check I know that the last item always be himself because his don't have a rigth bar to compare
                 right_max[size - 1] = fills[size - 1];
                 for (int i = size - 2; i >= 0; i--)
                 {
+                    //if the rigth item is bigger than the current graph I put this at same position, if not I put the bar value instead
                     right_max[i] = Math.Max(fills[i], right_max[i + 1]);
                 }
+                //Now that I know the 2 sides bigger value and both have the same size
                 for (int i = 1; i < size - 1; i++)
                 {
+                    //I check what is the lower of the to size and just subtract the current bar of the lower
                     ans += Math.Min(left_max[i], right_max[i]) - fills[i];
                 }
                 return ans;
             }
-
-            //Brutal force gone wrong kkk
-            //int CheckVolumeFill(int[] fills)
-            //{
-            //    int response = 0;
-            //    var volume = Descompress(fills, 1, response);
-            //    return volume;
-            //}
-
-            //int Descompress(int[] fills, int interator, int response)
-            //{
-            //    while (fills[interator] <= fills[interator - 1])
-            //    {
-            //        interator++;
-            //    }
-            //    var max = fills[interator];
-            //    interator++;
-            //    while (interator < (fills.Length - 1))
-            //    {
-            //        if (max > fills[interator])
-            //            response = response + (max - fills[interator]);
-            //        else
-            //        {
-            //            if (max <= fills[interator])
-            //            {
-            //                break;
-            //            }
-            //        }
-            //        interator++;
-            //    }
-
-            //    if (interator < (fills.Length - 1))
-            //        response = Descompress(fills, interator, response);
-
-            //    return response;
-            //}
         }
     }
 }
